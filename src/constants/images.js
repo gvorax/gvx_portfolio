@@ -35,8 +35,12 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 import profile_logo from '../assets/Profile_logo.png';
+import profile2 from '../assets/profile2.png';
+import profile3 from '../assets/profile3.png';
 
 export default {
+  profile3,
+  profile2,
   profile_logo,
   email,
   mobile,
