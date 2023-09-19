@@ -37,8 +37,10 @@ import spotify from '../assets/spotify.png';
 import profile_logo from '../assets/Profile_logo.png';
 import profile2 from '../assets/profile2.png';
 import profile3 from '../assets/profile3.png';
+import profileImg from '../assets/profile_img.png';
 
 export default {
+  profileImg,
   profile3,
   profile2,
   profile_logo,
